@@ -40,3 +40,5 @@ build/
 Thumbs.db
 tailwindcss.exe
 tailwindcss.exe.exe
+tailwindcss.exe
+*.exe
